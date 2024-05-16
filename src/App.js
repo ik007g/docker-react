@@ -6,8 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          I was changeod on feature branch
+        <h1
+          className="App-title"> Welcome to reactttt</h1>
+        </header>
+        <p className="App-intro">
+          To get started, edit <code>src/App.js</code>
+        
         </p>
         <a
           className="App-link"
@@ -17,7 +21,6 @@ function App() {
         >
           Learn React
         </a>
-      </header>
     </div>
   );
 }

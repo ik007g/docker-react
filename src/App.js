@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1
-          className="App-title"> Welcome to reactttt</h1>
+          className="App-title"> Welcome to changes from feature</h1>
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code>
